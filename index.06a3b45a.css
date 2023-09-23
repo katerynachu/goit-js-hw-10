@@ -1,0 +1,2 @@
+body{padding:0 20px}.breed-select{margin-top:30px}.cat-info{flex-wrap:wrap;gap:50px;margin-top:30px;padding:10px;display:flex}.cat-img{width:300px}.cat-block_info{max-width:50%}.loader{width:48px;height:48px;box-sizing:border-box;border:5px solid #ff3d00;border-color:#ff3d00 rgba(0,0,0,0);border-radius:50%;animation:rotation 1s linear infinite;display:inline-block;position:absolute;top:25%;left:45%}@keyframes rotation{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+/*# sourceMappingURL=index.06a3b45a.css.map */
